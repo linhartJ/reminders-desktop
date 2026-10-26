@@ -18,7 +18,7 @@ the date.
 
 ## Download
 
-[Download Reminders 1.4.0 (zip)](https://github.com/linhartJ/reminders-desktop/raw/main/downloads/reminders-1.4.0.zip)
+[Download Reminders (zip, latest version)](https://github.com/linhartJ/reminders-desktop/releases/latest/download/reminders.zip)
 
 Requires Java 25. Installation guides are inside the archive in the `install` folder.
 

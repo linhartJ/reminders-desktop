@@ -5,10 +5,11 @@ desktop several days before the reminder date hits. Runs on Windows and Linux, r
 
 ## Download
 
-**[Download Reminders 1.4.0 (zip)](https://github.com/linhartJ/reminders-desktop/raw/main/downloads/reminders-1.4.0.zip)**
+**[Download Reminders (zip, latest version)](https://github.com/linhartJ/reminders-desktop/releases/latest/download/reminders.zip)**
 
 The archive contains the `install` folder with installation guides: `install/WINDOWS.md` for Windows and
-`install/README.md` for Linux.
+`install/README.md` for Linux. Release notes and older versions are on the
+[releases page](https://github.com/linhartJ/reminders-desktop/releases).
 
 ## Links
 
