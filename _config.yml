@@ -1,0 +1,7 @@
+title: Reminders
+description: Desktop post-it reminders for birthdays and one-time events.
+theme: minima
+# distribution archives are linked from GitHub, not published to Pages
+exclude:
+  - downloads
+  - README.md
