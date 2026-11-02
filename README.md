@@ -14,6 +14,7 @@ The archive contains the `install` folder with installation guides: `install/WIN
 ## Links
 
 - Homepage: https://linhartj.github.io/reminders-desktop/
+- [Changelog](https://linhartj.github.io/reminders-desktop/changelog)
 - [Privacy policy](https://linhartj.github.io/reminders-desktop/privacy)
 - [Terms of service](https://linhartj.github.io/reminders-desktop/terms)
 - Questions and problems: [issues](https://github.com/linhartJ/reminders-desktop/issues)

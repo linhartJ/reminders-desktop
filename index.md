@@ -20,7 +20,11 @@ the date.
 
 [Download Reminders (zip, latest version)](https://github.com/linhartJ/reminders-desktop/releases/latest/download/reminders.zip)
 
+<span id="latest-version"></span> See the [changelog](changelog) for what is new.
+
 Requires Java 25. Installation guides are inside the archive in the `install` folder.
+
+<script src="{{ '/assets/releases.js' | relative_url }}"></script>
 
 ## Google Drive
 
